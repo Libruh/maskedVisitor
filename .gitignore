@@ -1,0 +1,7 @@
+__pycache__
+.vscode
+generatedLackeys
+venv
+addToFirebase.py
+config.py
+goodkid-c4583-firebase-adminsdk-7k70g-960f6b05c5.json
